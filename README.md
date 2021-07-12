@@ -1,2 +1,2 @@
 # nlw6-rocketseat
-Projeto desenvolvido durante a nlw 6 (next level week - 6ªedição) da Rocketseat.
+Project for a full website, in this case a hair salon, developed during Rocketseat's Next Level Week - 6th edition (nlw6).
